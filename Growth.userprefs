@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\bossbattle.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CheckpointMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Changer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\killers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\aibasic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\selfdestruct.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\shooter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\collisiondeath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\checkpointsound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bossbattle.cs" Line="77" Column="33" />
+      <File FileName="Assets\Scripts\BossBattleStarter.cs" Line="13" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
